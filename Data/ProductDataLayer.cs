@@ -1,1 +1,2 @@
-﻿
+﻿using System;
+namespace ProductData;

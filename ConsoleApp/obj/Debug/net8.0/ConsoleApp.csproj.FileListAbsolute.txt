@@ -18,3 +18,4 @@ C:\Users\Elkhan Mammadli\source\repos\MySolution\ConsoleApp\obj\Debug\net8.0\ref
 C:\Users\Elkhan Mammadli\source\repos\MySolution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
 C:\Users\Elkhan Mammadli\source\repos\MySolution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
 C:\Users\Elkhan Mammadli\source\repos\MySolution\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+C:\Users\Elkhan Mammadli\source\repos\MySolution\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
